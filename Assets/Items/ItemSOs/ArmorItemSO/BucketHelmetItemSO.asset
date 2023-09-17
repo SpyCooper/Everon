@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4d77790489cbe468be17a336649749, type: 3}
+  m_Name: BucketHelmetItemSO
+  m_EditorClassIdentifier: 
+  type: 1
+  inWorldModel: {fileID: 2123455033198736761, guid: 538529f6c499c3e439d646a211cff698,
+    type: 3}
+  itemName: Bucket Helmet
+  stackable: 0
+  inventorySprite: {fileID: 21300000, guid: 4de2aa65ef930fc4e86c0d0c09600c11, type: 3}
+  sellValue: 45
+  weaponSO: {fileID: 0}
+  armorSO: {fileID: 11400000, guid: d22d51a3ab91a2741a821d26d0fda6d4, type: 2}

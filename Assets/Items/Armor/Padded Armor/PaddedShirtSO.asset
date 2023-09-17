@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53c75139186390d4990eb9352ae1d513, type: 3}
+  m_Name: PaddedShirtSO
+  m_EditorClassIdentifier: 
+  armorName: Padded Shirt
+  description: A shirt with some padding in it. Could reduce some of the impact of
+    blows.
+  icon: {fileID: 21300000, guid: 6fff70253f73b364da237063dde57c56, type: 3}
+  defense: 10
+  armorLevel: 3
+  armorType: 1
+  showDefaultArmor: 0
+  itemSO: {fileID: 11400000, guid: 427f8d22b9550c44d9b8d5925294fbbc, type: 2}
+  helmetPrefab: {fileID: 0}
+  chestPrefab: {fileID: 4115462196086205419, guid: 4fa36a91bbdcfe649944e23003890fca,
+    type: 3}
+  rightShoulderPrefab: {fileID: 4852750670028394976, guid: d39e0b832b20f5449b1609bbba198e4c,
+    type: 3}
+  leftShoulderPrefab: {fileID: 2959795447025871027, guid: 82f882f5487cc2f488890f7d592cdaa1,
+    type: 3}
+  waistPrefab: {fileID: 0}
+  rightUpperLegPrefab: {fileID: 0}
+  rightLowerLegPrefab: {fileID: 0}
+  leftUpperLegPrefab: {fileID: 0}
+  leftLowerLegPrefab: {fileID: 0}

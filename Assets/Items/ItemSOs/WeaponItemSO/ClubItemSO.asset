@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4d77790489cbe468be17a336649749, type: 3}
+  m_Name: ClubItemSO
+  m_EditorClassIdentifier: 
+  type: 0
+  inWorldModel: {fileID: 4759101288692238899, guid: 6a2e93b9450a2084d99bdd87916cc660,
+    type: 3}
+  itemName: Wooden Club
+  stackable: 0
+  inventorySprite: {fileID: 21300000, guid: 452acc4d266a1384a9adeb07befbb2d9, type: 3}
+  sellValue: 20
+  weaponSO: {fileID: 11400000, guid: 6bfea3e27aef3b540b1b1549d9fb5d49, type: 2}
+  armorSO: {fileID: 0}

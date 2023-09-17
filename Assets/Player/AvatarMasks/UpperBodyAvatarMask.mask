@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpperBodyAvatarMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/Pelvis
+    m_Weight: 0
+  - m_Path: Armature/Pelvis/Bone.003
+    m_Weight: 1
+  - m_Path: Armature/Pelvis/Bone.003/Bone.003_end
+    m_Weight: 1
+  - m_Path: Armature/Pelvis/left thigh
+    m_Weight: 0
+  - m_Path: Armature/Pelvis/left thigh/Left Calf
+    m_Weight: 0
+  - m_Path: Armature/Pelvis/left thigh/Left Calf/Left Calf_end
+    m_Weight: 0
+  - m_Path: Armature/Pelvis/ribs
+    m_Weight: 1
+  - m_Path: Armature/Pelvis/ribs/Bone
+    m_Weight: 0
+  - m_Path: Armature/Pelvis/ribs/Bone/Bone_end
+    m_Weight: 0
+  - m_Path: Armature/Pelvis/ribs/left upper arm
+    m_Weight: 1
+  - m_Path: Armature/Pelvis/ribs/left upper arm/left forearm
+    m_Weight: 1
+  - m_Path: Armature/Pelvis/ribs/left upper arm/left forearm/left forearm_end
+    m_Weight: 1
+  - m_Path: Armature/Pelvis/ribs/right upper arm
+    m_Weight: 1
+  - m_Path: Armature/Pelvis/ribs/right upper arm/right forearm
+    m_Weight: 1
+  - m_Path: Armature/Pelvis/ribs/right upper arm/right forearm/right forearm_end
+    m_Weight: 1
+  - m_Path: Armature/Pelvis/ribs/Skull
+    m_Weight: 1
+  - m_Path: Armature/Pelvis/ribs/Skull/Skull_end
+    m_Weight: 1
+  - m_Path: Armature/Pelvis/right thigh
+    m_Weight: 0
+  - m_Path: Armature/Pelvis/right thigh/right calf
+    m_Weight: 0
+  - m_Path: Armature/Pelvis/right thigh/right calf/right calf_end
+    m_Weight: 0
+  - m_Path: Left Eyebrow
+    m_Weight: 1
+  - m_Path: LeftEye
+    m_Weight: 1
+  - m_Path: Lower body
+    m_Weight: 0
+  - m_Path: Lower Left Arm
+    m_Weight: 1
+  - m_Path: Lower Left Leg
+    m_Weight: 0
+  - m_Path: Lower Right Arm
+    m_Weight: 1
+  - m_Path: Lower Right Leg
+    m_Weight: 0
+  - m_Path: Right Eye
+    m_Weight: 1
+  - m_Path: Right Eyebrow
+    m_Weight: 1
+  - m_Path: Upper Body
+    m_Weight: 1
+  - m_Path: Upper Left Arm
+    m_Weight: 1
+  - m_Path: Upper Left Leg
+    m_Weight: 0
+  - m_Path: Upper Right Arm
+    m_Weight: 1
+  - m_Path: Upper Right Leg
+    m_Weight: 0
+  - m_Path: Vesteria Head
+    m_Weight: 1

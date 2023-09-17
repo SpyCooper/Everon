@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53c75139186390d4990eb9352ae1d513, type: 3}
+  m_Name: PaddedPantsSO
+  m_EditorClassIdentifier: 
+  armorName: Padded Pants
+  description: Pants will some padding. They can probably stop minor attacks
+  icon: {fileID: 21300000, guid: 211ad6cc96f2eb046b708913cdf37c08, type: 3}
+  defense: 7
+  armorLevel: 3
+  armorType: 2
+  showDefaultArmor: 0
+  helmetPrefab: {fileID: 0}
+  chestPrefab: {fileID: 0}
+  rightShoulderPrefab: {fileID: 0}
+  leftShoulderPrefab: {fileID: 0}
+  waistPrefab: {fileID: 4609615312313428723, guid: 7648086277f7ed6408774d81a767cf76,
+    type: 3}
+  rightUpperLegPrefab: {fileID: 5996954914202466901, guid: d185fb649b7d2024e854b713e339c5fc,
+    type: 3}
+  rightLowerLegPrefab: {fileID: 162737083302049913, guid: 35721ce397edbc84d9280533c35c58cd,
+    type: 3}
+  leftUpperLegPrefab: {fileID: 7305961392087835395, guid: 2d90020bb84750a4ebb4570269e03aab,
+    type: 3}
+  leftLowerLegPrefab: {fileID: 8540486672504472600, guid: 6f5f78269f9bbd04c9a2ff35d8b30162,
+    type: 3}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53c75139186390d4990eb9352ae1d513, type: 3}
+  m_Name: WoodenPadsSO
+  m_EditorClassIdentifier: 
+  armorName: Wooden Pads
+  description: Some wooden planks quickly tied together.
+  icon: {fileID: 21300000, guid: 11c664f2eb5ed8b489ae5524e266ae63, type: 3}
+  defense: 5
+  armorLevel: 1
+  armorType: 1
+  showDefaultArmor: 1
+  itemSO: {fileID: 11400000, guid: 179e12c7717013d4a9309a6bd4fb70ab, type: 2}
+  helmetPrefab: {fileID: 0}
+  chestPrefab: {fileID: 4374117620752561232, guid: 1dea5a1bdd793ea4982207d166eb6ee5,
+    type: 3}
+  rightShoulderPrefab: {fileID: 3990505407308361484, guid: f113061e9b2f12845be5e54fca603a8e,
+    type: 3}
+  leftShoulderPrefab: {fileID: 2066130184912471806, guid: 450bdb6cad7ffde42a44b736373c25d1,
+    type: 3}
+  waistPrefab: {fileID: 0}
+  rightUpperLegPrefab: {fileID: 0}
+  rightLowerLegPrefab: {fileID: 0}
+  leftUpperLegPrefab: {fileID: 0}
+  leftLowerLegPrefab: {fileID: 0}
