@@ -17,7 +17,7 @@ public class MainMenuUI : MonoBehaviour
         // sets up the buttons to do what they say
 
         playButton.onClick.AddListener(() => {
-            Loader.Load(Loader.Scene.GameScene);
+            Loader.Load(Loader.Scene.Testing);
         });
         
         optionsButton.onClick.AddListener(() => {

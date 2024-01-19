@@ -20,7 +20,7 @@ public class WeaponCollisionDetection : MonoBehaviour
         // if the collider has the component enemy, they take damage
         if(other.GetComponent<Enemy>())
         {
-            int attackDealt = currentWeapon.attack * PlayerManager.Instance.currentCharacterData.GetSTR();
+            int attackDealt = currentWeapon.attack * (PlayerManager.Instance.currentCharacterData.GetSTR()+1);
             Debug.Log("Attack dealt = " + attackDealt);
             Debug.Log(attackDealt);
             other.GetComponent<Enemy>().TakeDamage(attackDealt);
